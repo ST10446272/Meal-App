@@ -1,12 +1,12 @@
 # Meal App
-- Developer: [Likhona Ngwenya]
+- Developer: Likhona Ngwenya
 - Student Number: ST10446272
 - Group: GR01
 - Course: Higher Certificate in Mobile Application and Web Development (HMAW0501)
 - Subject: IMAD5112
 
 # Links
-- GitHub Repository: [Repository URL](https://github.com/ST10446272/Meal-App)
+- GitHub Repository: [[Repository URL]](https://github.com/VCSTDN2024/imad5112-assignment-1-ST10446272)
 - YouTube Video: [https://youtu.be/CcvnVvGIbnA](https://youtu.be/CcvnVvGIbnA)
 
 
