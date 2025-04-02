@@ -6,7 +6,7 @@
 - Subject: IMAD5112
 
 # Links
-- GitHub Repository: epository URL
+- GitHub Repository: [Repository URL](https://github.com/ST10446272/Meal-App)
 - YouTube Video: [https://youtu.be/CcvnVvGIbnA](https://youtu.be/CcvnVvGIbnA)
 
 
